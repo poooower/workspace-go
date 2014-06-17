@@ -1,0 +1,4 @@
+workspace-go
+============
+
+golang test
